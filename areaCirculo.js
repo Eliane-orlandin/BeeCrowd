@@ -16,3 +16,5 @@ var raio = parseFloat(input);
 var area = 3.14159 * (raio * raio);
 
 console.log("A=" + area.toFixed(4));
+
+//
